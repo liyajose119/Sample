@@ -1,3 +1,5 @@
+package com.obscura.sample.test;
+
 class Student {
 int roll;
 String name;
